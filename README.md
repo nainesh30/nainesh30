@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nainesh30
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently Preparing for IIT JEE.
+- 🌱 I’m currently Pursuing B Tech. in ECE.
 - 📫 How to reach me  (Instagram: @nainesh_30_03)
 
 <!---
